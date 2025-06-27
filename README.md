@@ -37,6 +37,8 @@
 
 ## 📱 Demo Video
 
+Watch the full app walkthrough on Google Drive:  
+(https://drive.google.com/file/d/1t1yTi6EaSRsK7hkdBsbpviy1CUSOgmMW/view?usp=drive_link)
 
 ---
 
